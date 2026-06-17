@@ -1,4 +1,4 @@
 # firstprogram
-this is my first git repogetry.
+this is my first git repository.
 <br>
 author : aditya raj
